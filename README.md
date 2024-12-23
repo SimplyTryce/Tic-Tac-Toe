@@ -17,3 +17,12 @@ Leider empfand ich die Verkürzung der einzelnen Code-Passagen als unnötig, da 
   -> Ziel sollte es vorerst nur ein, dass ein funktionierendes TicTacToe-Programm läuft.
   -> Ich habe innerhalb des Programms meine Art und Weise geändert wie ich Abfragungen vornehmen, da sie mir als leichter und besser vorkamen.
 
+Weitere Features, welche mir einfallen würden sind:
+   - Anstatt random ein Feld zu besetzen, sofern keine WinCondition vorliegt, könnte man versuchen ein WinCOndition zu provozieren, indem man 0 herausfindet und X sich nicht bereits in der WinCondition befindet.
+   - Einen Round-Counter, damit man best of 3 oder best of 5 spielen kann.
+   - Eventuell von einer ASCII-Darstellung abweichen und ein visuelles Programm erstellen mit den entsprechenden Algorithmen.
+   - Die Felder mit den Indexes beschriften, damit man nicht abzählen muss welchen Index welches Feld hat.
+
+Vielleicht hilft es ja dem ein oder anderen einen anderen Blickwinkel auf anfängerliche Programmierung zu werfen, oder einfach um zu sehen wie schlecht das Programm eigentlich geschrieben ist ^^
+
+SimplyTryce
