@@ -24,5 +24,7 @@ Weitere Features, welche mir einfallen würden sind:
    - Die Felder mit den Indexes beschriften, damit man nicht abzählen muss welchen Index welches Feld hat.
 
 Vielleicht hilft es ja dem ein oder anderen einen anderen Blickwinkel auf anfängerliche Programmierung zu werfen, oder einfach um zu sehen wie schlecht das Programm eigentlich geschrieben ist ^^
+// Hier sind einmal die Skizzen die ich dafür benutzt habe
+<img width="1163" alt="image" src="https://github.com/user-attachments/assets/000ff41c-b3b6-4446-9650-2512cbb83125" />
 
 SimplyTryce
