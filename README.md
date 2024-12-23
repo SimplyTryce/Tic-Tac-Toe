@@ -14,7 +14,7 @@ Der Plan ist wie folgt:
 Bisher sind keine Schwierigkeiten im Testing aufgetreten.
 Die Implementierung von manchen Methoden sind vermutlich sehr umständlich und eventuell unnötig und manchen Code kann man bestimmt kürzer fassen, sofern man weiß wie.
 Leider empfand ich die Verkürzung der einzelnen Code-Passagen als unnötig, da es viel Arbeit bedeutet und ohnehin schon funktioniert.
-  -> Ziel sollte es vorerst nur ein, dass ein funktionierendes TicTacToe-Programm läuft.
+  -> Ziel sollte vorerst nur sein ein funktionierendes TicTacToe-Programm zu coden.
   -> Ich habe innerhalb des Programms meine Art und Weise geändert wie ich Abfragungen vornehmen, da sie mir als leichter und besser vorkamen.
 
 Weitere Features, welche mir einfallen würden sind:
